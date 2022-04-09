@@ -500,7 +500,8 @@ img {
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: .5rem;
+    max-height: max-content;
+    padding: 1em;
     background-color: var(--container-color-smooth);
     border-radius: .5rem;
     box-shadow: var(--shadow-small);
